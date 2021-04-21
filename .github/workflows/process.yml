@@ -14,8 +14,8 @@ jobs:
       - name: pull from source
         run: wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
         
-      - name: process
-        run: cut -d'/' -f 2 accelerated-domains.china.conf | awk '{ printf $1; print " 119.29.29.29" }' >forwarding-rules.txt
+      - name: convert
+        run: cut -d'/' -f 2 accelerated-domains.china.conf | awk '{ printf $1; print " ${{ secrets.NAMESERVERS }}" }' >forwarding-rules.txt
         
       - name: commit
         run: |
