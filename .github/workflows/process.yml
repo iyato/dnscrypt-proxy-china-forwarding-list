@@ -7,6 +7,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env: 
+      NAMESERVERS: ${{ secrets.NAMESERVERS }}
 
     steps:
       - uses: actions/checkout@v2
@@ -15,7 +17,7 @@ jobs:
         run: wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
         
       - name: convert
-        run: cut -d'/' -f 2 accelerated-domains.china.conf | awk '{ printf $1; print " ${{ secrets.NAMESERVERS }}" }' >forwarding-rules.txt
+        run: cut -d'/' -f 2 accelerated-domains.china.conf | awk "{ printf $1; print \" $NAMESERVERS\" }" >forwarding-rules.txt
         
       - name: commit
         run: |
