@@ -14,10 +14,14 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: pull from source
-        run: wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
+        run: >
+          wget
+          https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
+          https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf
+          https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf
         
       - name: convert
-        run: cut -d'/' -f 2 accelerated-domains.china.conf | awk "{ printf \$1; print \" $NAMESERVERS\" }" >forwarding-rules.txt
+        run: sed -e 's|\(.*\)|\1 $(NAMESERVERS)|' accelerated-domains.china.conf google.china.conf apple.china.conf > forwarding-rules.txt
         
       - name: commit
         run: |
