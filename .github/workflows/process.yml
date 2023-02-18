@@ -18,11 +18,9 @@ jobs:
         run: >
           wget
           https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
-          https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf
-          https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf
         
       - name: convert
-        run: sed -e 's|\(.*\)|\1 $(NAMESERVERS)|' accelerated-domains.china.conf google.china.conf apple.china.conf > forwarding-rules.txt
+        run: cut -d'/' -f 2 accelerated-domains.china.conf | awk "{ printf \$1; print \" $NAMESERVERS\" }" >forwarding-rules.txt
         
       - name: commit
         run: |
