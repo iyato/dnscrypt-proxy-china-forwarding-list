@@ -21,7 +21,7 @@ jobs:
         run: |
           cd dnsmasq-china-list
           make dnscrypt-proxy
-          mv dnscrypt-proxy-forwarding-rules.txt forwarding-rules.txt
+          mv dnscrypt-proxy-forwarding-rules.txt ../forwarding-rules.txt
         
       - name: commit
         run: |
