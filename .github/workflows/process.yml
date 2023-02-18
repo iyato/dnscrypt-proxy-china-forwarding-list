@@ -15,12 +15,13 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: pull from source
-        run: >
-          wget
-          https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
+        run: git clone https://github.com/felixonmars/dnsmasq-china-list.git --depth 1
         
       - name: convert
-        run: cut -d'/' -f 2 accelerated-domains.china.conf | awk "{ printf \$1; print \" $NAMESERVERS\" }" >forwarding-rules.txt
+        run: |
+          cd dnsmasq-china-list
+          make dnscrypt-proxy
+          mv dnscrypt-proxy-forwarding-rules.txt forwarding-rules.txt
         
       - name: commit
         run: |
