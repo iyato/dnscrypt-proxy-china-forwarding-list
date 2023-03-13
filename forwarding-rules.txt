@@ -7550,7 +7550,6 @@ ahuano.com 114.114.114.114
 ahudows.com 114.114.114.114
 ahugeship.com 114.114.114.114
 ahuyi.com 114.114.114.114
-ahwkdz.com 114.114.114.114
 ahwwnews.com 114.114.114.114
 ahwxcs.com 114.114.114.114
 ahxwkj.com 114.114.114.114
@@ -7843,6 +7842,7 @@ aiuxian.com 114.114.114.114
 aiuxstudio.com 114.114.114.114
 aiviy.com 114.114.114.114
 aiviysoft.com 114.114.114.114
+aivote.com 114.114.114.114
 aiwall.com 114.114.114.114
 aiwan4399.com 114.114.114.114
 aiwan91.com 114.114.114.114
@@ -16727,6 +16727,7 @@ cytstibet.com 114.114.114.114
 cyudun.net 114.114.114.114
 cyuew.com 114.114.114.114
 cywetc.com 114.114.114.114
+cywyjj.com 114.114.114.114
 cyy18.com 114.114.114.114
 cyypscl.com 114.114.114.114
 cyyself.name 114.114.114.114
@@ -26846,7 +26847,6 @@ houzhibo.com 114.114.114.114
 hoverlees.com 114.114.114.114
 hovertree.com 114.114.114.114
 hovfree.com 114.114.114.114
-how234.com 114.114.114.114
 howardwchen.com 114.114.114.114
 howbuy.com 114.114.114.114
 howelllighting.com 114.114.114.114
@@ -28509,6 +28509,7 @@ icsisia.com 114.114.114.114
 icslx.com 114.114.114.114
 icsoc.net 114.114.114.114
 icson.com 114.114.114.114
+icspec.com 114.114.114.114
 icss.me 114.114.114.114
 icstreet.com 114.114.114.114
 icswb.com 114.114.114.114
@@ -37236,6 +37237,7 @@ mcbeam.pro 114.114.114.114
 mcchcdn.com 114.114.114.114
 mcchina.com 114.114.114.114
 mcchou.com 114.114.114.114
+mcd.blue 114.114.114.114
 mcd.cc 114.114.114.114
 mcdchina.net 114.114.114.114
 mcdsusan.com 114.114.114.114
@@ -37774,7 +37776,6 @@ miaoshuzhai.net 114.114.114.114
 miaostreet.com 114.114.114.114
 miaov.com 114.114.114.114
 miaoweijianfei.com 114.114.114.114
-miaowugo.com 114.114.114.114
 miaowutech.com 114.114.114.114
 miaoxiazai.com 114.114.114.114
 miaozao.com 114.114.114.114
@@ -38569,7 +38570,6 @@ morewis.com 114.114.114.114
 morewiscloud.com 114.114.114.114
 morigames.com 114.114.114.114
 morihei.net 114.114.114.114
-moring.pw 114.114.114.114
 morketing.com 114.114.114.114
 morning.work 114.114.114.114
 morningcore.com 114.114.114.114
@@ -42321,7 +42321,6 @@ ppxclub.com 114.114.114.114
 ppxs.net 114.114.114.114
 ppxvod.com 114.114.114.114
 ppxwo.com 114.114.114.114
-ppxzy.co 114.114.114.114
 ppys.net 114.114.114.114
 ppzhan.com 114.114.114.114
 ppzhilian.com 114.114.114.114
@@ -48812,7 +48811,6 @@ suning.com 114.114.114.114
 suningcloud.com 114.114.114.114
 suningestate.com 114.114.114.114
 suningholdings.com 114.114.114.114
-sunjidong.net 114.114.114.114
 sunjiwen.com 114.114.114.114
 sunjs.com 114.114.114.114
 sunland.cc 114.114.114.114
@@ -51824,7 +51822,6 @@ twcad.com 114.114.114.114
 twcczhu.com 114.114.114.114
 twd2.me 114.114.114.114
 twd2.net 114.114.114.114
-tweakboxapp.com 114.114.114.114
 tweakcube.com 114.114.114.114
 twguozao.com 114.114.114.114
 twh5.com 114.114.114.114
@@ -55270,7 +55267,6 @@ woaidu.org 114.114.114.114
 woaifanyi.com 114.114.114.114
 woaihaoyouxi.com 114.114.114.114
 woaihuahua.com 114.114.114.114
-woaipj.com 114.114.114.114
 woaipu.com 114.114.114.114
 woair.com 114.114.114.114
 woaishouban.com 114.114.114.114
@@ -57916,7 +57912,6 @@ xoao.com 114.114.114.114
 xoliao.com 114.114.114.114
 xooooa.com 114.114.114.114
 xorpay.com 114.114.114.114
-xoveskincare.com 114.114.114.114
 xox8688.com 114.114.114.114
 xox8995.com 114.114.114.114
 xox9325.com 114.114.114.114
