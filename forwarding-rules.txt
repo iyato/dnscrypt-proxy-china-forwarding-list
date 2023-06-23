@@ -164,7 +164,6 @@
 024heyi.com 114.114.114.114
 024hh.com 114.114.114.114
 024huada.com 114.114.114.114
-024zol.com 114.114.114.114
 024zxw.com 114.114.114.114
 02516.com 114.114.114.114
 025ct.com 114.114.114.114
@@ -3174,7 +3173,6 @@
 3wht.com 114.114.114.114
 3wka.com 114.114.114.114
 3wmm.com 114.114.114.114
-3wsw.com 114.114.114.114
 3wzhaopin.com 114.114.114.114
 3x88.net 114.114.114.114
 3xgd.com 114.114.114.114
@@ -5781,6 +5779,7 @@
 81comdns.com 114.114.114.114
 81it.com 114.114.114.114
 81js.net 114.114.114.114
+81jubayi.com 114.114.114.114
 81kx.com 114.114.114.114
 81pan.com 114.114.114.114
 81tech.com 114.114.114.114
@@ -6786,7 +6785,6 @@
 99haoling.com 114.114.114.114
 99hdf.com 114.114.114.114
 99hkjf.com 114.114.114.114
-99huizhou.com 114.114.114.114
 99huodong.xyz 114.114.114.114
 99ielts.com 114.114.114.114
 99inn.cc 114.114.114.114
@@ -6911,7 +6909,6 @@
 9orange.com 114.114.114.114
 9pt.net 114.114.114.114
 9qu.com 114.114.114.114
-9qu5.com 114.114.114.114
 9rmb.com 114.114.114.114
 9see.com 114.114.114.114
 9skm.com 114.114.114.114
@@ -7026,7 +7023,6 @@ abc188.com 114.114.114.114
 abc360.com 114.114.114.114
 abc369.net 114.114.114.114
 abcache.com 114.114.114.114
-abcbxw.com 114.114.114.114
 abcd5.com 114.114.114.114
 abcdao.com 114.114.114.114
 abcdocker.com 114.114.114.114
@@ -11428,6 +11424,7 @@ bqfy.com 114.114.114.114
 bqg8.cc 114.114.114.114
 bqg8.la 114.114.114.114
 bqg99.cc 114.114.114.114
+bqgnovels.com 114.114.114.114
 bqgyy.com 114.114.114.114
 bqimg.com 114.114.114.114
 bqpoint.com 114.114.114.114
@@ -13112,6 +13109,7 @@ changjiangdata.com 114.114.114.114
 changjiangtimes.com 114.114.114.114
 changjuyi.com 114.114.114.114
 changker.com 114.114.114.114
+changlipeixun.com 114.114.114.114
 changliuliang.com 114.114.114.114
 changning.net 114.114.114.114
 changpingquzhongxiyijieheyiyuan.com 114.114.114.114
@@ -14436,7 +14434,6 @@ chunyu.me 114.114.114.114
 chunyu.mobi 114.114.114.114
 chunyuqiufeng.com 114.114.114.114
 chunyuyisheng.com 114.114.114.114
-chuqimen.com 114.114.114.114
 chuquan.me 114.114.114.114
 chureng.com 114.114.114.114
 churenjixie.com 114.114.114.114
@@ -18068,6 +18065,7 @@ dingtalk.com 114.114.114.114
 dingtalkapps.com 114.114.114.114
 dingtangzqx.com 114.114.114.114
 dingteam.com 114.114.114.114
+dingweilishi.com 114.114.114.114
 dingxiang-inc.com 114.114.114.114
 dingxinhui.com 114.114.114.114
 dingxinwen.com 114.114.114.114
@@ -19555,7 +19553,6 @@ easytouch.com 114.114.114.114
 easytrip.com 114.114.114.114
 easyzw.com 114.114.114.114
 eateapp.com 114.114.114.114
-eaten.fun 114.114.114.114
 eaydu.com 114.114.114.114
 eayou.com 114.114.114.114
 eayuan.com 114.114.114.114
@@ -21729,7 +21726,6 @@ floorb2b.com 114.114.114.114
 florentiavillage.com 114.114.114.114
 flower188.com 114.114.114.114
 flower33.com 114.114.114.114
-flowerku.fun 114.114.114.114
 flowerpassword.com 114.114.114.114
 flowever.net 114.114.114.114
 flowportal.com 114.114.114.114
@@ -22062,7 +22058,6 @@ fsaligzf.com 114.114.114.114
 fsbankonline.com 114.114.114.114
 fsc555.com 114.114.114.114
 fscinda.com 114.114.114.114
-fscl666.com 114.114.114.114
 fsclzs.com 114.114.114.114
 fscm.tech 114.114.114.114
 fscmjt.com 114.114.114.114
@@ -22855,6 +22850,7 @@ gdswine.com 114.114.114.114
 gdsxgd.com 114.114.114.114
 gdsytech.com 114.114.114.114
 gdszjgdj.org 114.114.114.114
+gdszkw.com 114.114.114.114
 gdtai.com 114.114.114.114
 gdtaihao.com 114.114.114.114
 gdtex.com 114.114.114.114
@@ -23323,7 +23319,6 @@ globalcompressor.com 114.114.114.114
 globaldangdang.hk 114.114.114.114
 globaletrust.com 114.114.114.114
 globalhardwares.com 114.114.114.114
-globalhomed.com 114.114.114.114
 globalimporter.net 114.114.114.114
 globalizex.com 114.114.114.114
 globalmil.com 114.114.114.114
@@ -24451,7 +24446,6 @@ gzhuake.cc 114.114.114.114
 gzhxpw.com 114.114.114.114
 gzhzcj.com 114.114.114.114
 gzidc.com 114.114.114.114
-gzif.net 114.114.114.114
 gzittc.net 114.114.114.114
 gzj568.com 114.114.114.114
 gzjingsha.com 114.114.114.114
@@ -24483,7 +24477,6 @@ gzmtr.com 114.114.114.114
 gzncstudios.com 114.114.114.114
 gznemo.com 114.114.114.114
 gznet.com 114.114.114.114
-gznewtouch.net 114.114.114.114
 gzngn.com 114.114.114.114
 gznxbank.com 114.114.114.114
 gzpeite.com 114.114.114.114
@@ -24640,6 +24633,7 @@ h6969.com 114.114.114.114
 h6app.com 114.114.114.114
 h7ec.com 114.114.114.114
 h8jx.com 114.114.114.114
+h9hash.com 114.114.114.114
 ha97.com 114.114.114.114
 haawking.com 114.114.114.114
 habadog.com 114.114.114.114
@@ -26320,7 +26314,6 @@ hkpep.com 114.114.114.114
 hkproperty.com 114.114.114.114
 hkqbh.com 114.114.114.114
 hkscxh.com 114.114.114.114
-hkskyloyd.com 114.114.114.114
 hkstv.tv 114.114.114.114
 hkszetsair.com 114.114.114.114
 hkt4.com 114.114.114.114
@@ -27951,7 +27944,6 @@ hydz999.com 114.114.114.114
 hydzfp.com 114.114.114.114
 hyedu.com 114.114.114.114
 hyext.com 114.114.114.114
-hyfc168.com 114.114.114.114
 hyfutures.com 114.114.114.114
 hyggfx.com 114.114.114.114
 hygl.org 114.114.114.114
@@ -28412,7 +28404,6 @@ ich8.com 114.114.114.114
 ichacha.com 114.114.114.114
 ichacha.net 114.114.114.114
 ichang8.com 114.114.114.114
-ichangbaishan.com 114.114.114.114
 ichangtou.com 114.114.114.114
 ichanyu.com 114.114.114.114
 ichaoshangyue.com 114.114.114.114
@@ -31176,6 +31167,7 @@ jingyuelaw.com 114.114.114.114
 jingyuxiaoban.com 114.114.114.114
 jingyuyun.com 114.114.114.114
 jingzhengu.com 114.114.114.114
+jingzhunyunting.com 114.114.114.114
 jingzhusz.com 114.114.114.114
 jinhe-energy.com 114.114.114.114
 jinhengjgj.com 114.114.114.114
@@ -34063,6 +34055,7 @@ kzett.com 114.114.114.114
 kzeww.com 114.114.114.114
 kzore.com 114.114.114.114
 kzqs.com 114.114.114.114
+kzread.com 114.114.114.114
 kzt.cc 114.114.114.114
 kztpms.com 114.114.114.114
 kzwr.com 114.114.114.114
@@ -35977,7 +35970,6 @@ lookbc.com 114.114.114.114
 lookbravo.com 114.114.114.114
 lookchem.com 114.114.114.114
 lookcss.com 114.114.114.114
-lookdiv.com 114.114.114.114
 lookgame.com 114.114.114.114
 looking-car.com 114.114.114.114
 lookr.cc 114.114.114.114
@@ -36303,10 +36295,8 @@ luoboxia.com 114.114.114.114
 luochen.com 114.114.114.114
 luochenyl.com 114.114.114.114
 luocs.cc 114.114.114.114
-luodaoyi.com 114.114.114.114
 luodian.com 114.114.114.114
 luodw.cc 114.114.114.114
-luody.info 114.114.114.114
 luofan.net 114.114.114.114
 luogu.org 114.114.114.114
 luohanyu.cc 114.114.114.114
@@ -36614,7 +36604,6 @@ lzhongdian.com 114.114.114.114
 lzhpo.com 114.114.114.114
 lzhygame.com 114.114.114.114
 lzjdbjc.com 114.114.114.114
-lzjjdd.net 114.114.114.114
 lzjoy.com 114.114.114.114
 lzlj.com 114.114.114.114
 lzmoyin.com 114.114.114.114
@@ -37225,7 +37214,6 @@ mcbeam.pro 114.114.114.114
 mcchcdn.com 114.114.114.114
 mcchina.com 114.114.114.114
 mcchou.com 114.114.114.114
-mcd.blue 114.114.114.114
 mcd.cc 114.114.114.114
 mcdchina.net 114.114.114.114
 mcdsusan.com 114.114.114.114
@@ -37576,7 +37564,6 @@ mengzhuboke.com 114.114.114.114
 mengzone.com 114.114.114.114
 menhood.wang 114.114.114.114
 menksoft.com 114.114.114.114
-menov.net 114.114.114.114
 menpiao.com 114.114.114.114
 menqiu.com 114.114.114.114
 mentrends.com 114.114.114.114
@@ -38641,7 +38628,6 @@ mp4cn.com 114.114.114.114
 mp4er.cc 114.114.114.114
 mp4ju.com 114.114.114.114
 mp4kan.com 114.114.114.114
-mp5w.net 114.114.114.114
 mpaascloud.com 114.114.114.114
 mpacc.net 114.114.114.114
 mpaidata.com 114.114.114.114
@@ -40618,7 +40604,6 @@ okweb.info 114.114.114.114
 okwuyou.com 114.114.114.114
 okxr.com 114.114.114.114
 okz.com 114.114.114.114
-okz.ltd 114.114.114.114
 ol-cdn.com 114.114.114.114
 ol-img.com 114.114.114.114
 olabo.net 114.114.114.114
@@ -42789,6 +42774,7 @@ qfamilylaw.com 114.114.114.114
 qfang.com 114.114.114.114
 qfangimg.com 114.114.114.114
 qfcm.vip 114.114.114.114
+qfdy2022.xyz 114.114.114.114
 qfedu.com 114.114.114.114
 qfeiche.com 114.114.114.114
 qfgolang.com 114.114.114.114
@@ -44031,7 +44017,6 @@ qutu.com 114.114.114.114
 qutuiwa.com 114.114.114.114
 quumii.com 114.114.114.114
 quvisa.com 114.114.114.114
-quw1234.icu 114.114.114.114
 quwaifu.com 114.114.114.114
 quwan.com 114.114.114.114
 quwan.fun 114.114.114.114
@@ -45931,7 +45916,6 @@ seodaniel.com 114.114.114.114
 seofangfa.com 114.114.114.114
 seohet.com 114.114.114.114
 seoipo.com 114.114.114.114
-seoniao.com 114.114.114.114
 seopath.net 114.114.114.114
 seopeixun5.com 114.114.114.114
 seopre.com 114.114.114.114
@@ -46697,6 +46681,7 @@ shitourom.com 114.114.114.114
 shiwan.com 114.114.114.114
 shiwangyun.com 114.114.114.114
 shiweisemi.com 114.114.114.114
+shiwusmd.com 114.114.114.114
 shixian.com 114.114.114.114
 shixiaojin.com 114.114.114.114
 shixibiaozhi.com 114.114.114.114
@@ -48269,6 +48254,7 @@ speedcdns.com 114.114.114.114
 speednt.com 114.114.114.114
 speedpdf.com 114.114.114.114
 speedsz.net 114.114.114.114
+speedtest.im 114.114.114.114
 speedws.info 114.114.114.114
 speedws.org 114.114.114.114
 speiyou.com 114.114.114.114
@@ -48276,7 +48262,6 @@ spfmc.com 114.114.114.114
 spforum.net 114.114.114.114
 spgnux.com 114.114.114.114
 spibj.com 114.114.114.114
-spiderprobe.com 114.114.114.114
 spiiker.com 114.114.114.114
 spin-view.com 114.114.114.114
 spirit-doll.net 114.114.114.114
@@ -50762,6 +50747,7 @@ tjluohuzhijia.com 114.114.114.114
 tjmama.com 114.114.114.114
 tjmhc.com 114.114.114.114
 tjmuch.com 114.114.114.114
+tjmysdq.com 114.114.114.114
 tjorthop.org 114.114.114.114
 tjpa-china.org 114.114.114.114
 tjpma.org 114.114.114.114
@@ -50908,7 +50894,6 @@ todayintnet.com 114.114.114.114
 todayios.com 114.114.114.114
 todayisp.net 114.114.114.114
 todaynic.com 114.114.114.114
-todebug.com 114.114.114.114
 todesk.com 114.114.114.114
 todoen.com 114.114.114.114
 todokeji.com 114.114.114.114
@@ -52270,7 +52255,6 @@ ujinbi.com 114.114.114.114
 ujing.online 114.114.114.114
 ujipin.com 114.114.114.114
 ujiuye.com 114.114.114.114
-ujwang.com 114.114.114.114
 uk-edu.com 114.114.114.114
 uk-odc.samsungapps.com 114.114.114.114
 uk86.com 114.114.114.114
@@ -53159,6 +53143,7 @@ vjia.com 114.114.114.114
 vjiazu.com 114.114.114.114
 vjie.com 114.114.114.114
 vjshi.com 114.114.114.114
+vjty372.com 114.114.114.114
 vjudge.net 114.114.114.114
 vk6.me 114.114.114.114
 vk8.co 114.114.114.114
@@ -56136,6 +56121,7 @@ x12plus.com 114.114.114.114
 x1340.com 114.114.114.114
 x158.tv 114.114.114.114
 x1997.net 114.114.114.114
+x23119.com 114.114.114.114
 x23qb.com 114.114.114.114
 x23us.me 114.114.114.114
 x23us.us 114.114.114.114
@@ -56474,7 +56460,6 @@ xfinfr.com 114.114.114.114
 xfisp.com 114.114.114.114
 xfjw.net 114.114.114.114
 xfliusheng.com 114.114.114.114
-xfn.xyz 114.114.114.114
 xfnano.com 114.114.114.114
 xfocus.net 114.114.114.114
 xfocus.org 114.114.114.114
@@ -57478,7 +57463,6 @@ xinyong.net 114.114.114.114
 xinyongbuy.com 114.114.114.114
 xinyou.com 114.114.114.114
 xinyour.com 114.114.114.114
-xinyouw.org 114.114.114.114
 xinyu19.com 114.114.114.114
 xinyuechao.com 114.114.114.114
 xinyuefei.com 114.114.114.114
@@ -60573,6 +60557,7 @@ yrucd.com 114.114.114.114
 yrw.cc 114.114.114.114
 yrw.com 114.114.114.114
 yrwy.com 114.114.114.114
+yrxsw.com 114.114.114.114
 yryz.com 114.114.114.114
 yrzjw.com 114.114.114.114
 ys.cc 114.114.114.114
@@ -61081,7 +61066,6 @@ yunqishi.net 114.114.114.114
 yunqishi8.com 114.114.114.114
 yunqiyqh.com 114.114.114.114
 yunque360.com 114.114.114.114
-yunque365.com 114.114.114.114
 yunrg.com 114.114.114.114
 yunrongu.com 114.114.114.114
 yunruift.com 114.114.114.114
@@ -63053,6 +63037,7 @@ zikao.gd 114.114.114.114
 zikao365.com 114.114.114.114
 zikao5.com 114.114.114.114
 zikaocqi.com 114.114.114.114
+zikaogd.com 114.114.114.114
 zikaoshu.net 114.114.114.114
 zikaoshu.vip 114.114.114.114
 zikaosw.com 114.114.114.114
@@ -63199,7 +63184,6 @@ zjdyjob.com 114.114.114.114
 zje.com 114.114.114.114
 zjedps.com 114.114.114.114
 zjedu.org 114.114.114.114
-zjepe.com 114.114.114.114
 zjfdc.net 114.114.114.114
 zjft.com 114.114.114.114
 zjgas.net 114.114.114.114
@@ -63231,7 +63215,6 @@ zjipc.com 114.114.114.114
 zjj17u.com 114.114.114.114
 zjj21.com 114.114.114.114
 zjj588.com 114.114.114.114
-zjjbtl.com 114.114.114.114
 zjjd.org 114.114.114.114
 zjjgcyz.com 114.114.114.114
 zjjgy.com 114.114.114.114
@@ -63665,7 +63648,6 @@ zsaber.com 114.114.114.114
 zsacg.com 114.114.114.114
 zsaxi.com 114.114.114.114
 zsbeike.com 114.114.114.114
-zsbit.com 114.114.114.114
 zsbsoft.com 114.114.114.114
 zscaishang.com 114.114.114.114
 zsdk.cc 114.114.114.114
@@ -63734,7 +63716,6 @@ ztcadx.com 114.114.114.114
 ztch.ltd 114.114.114.114
 ztcia.com 114.114.114.114
 ztcnwy.com 114.114.114.114
-ztdad.com 114.114.114.114
 zte.net 114.114.114.114
 ztedevice.com 114.114.114.114
 ztedevices.com 114.114.114.114
