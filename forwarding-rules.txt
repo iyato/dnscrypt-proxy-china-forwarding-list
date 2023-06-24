@@ -2232,6 +2232,7 @@
 26ef.com 114.114.114.114
 26host.com 114.114.114.114
 26joy.com 114.114.114.114
+26ks.org 114.114.114.114
 26lady.com 114.114.114.114
 26tc.com 114.114.114.114
 26youxi.com 114.114.114.114
@@ -6394,7 +6395,6 @@
 921716.com 114.114.114.114
 9217web.com 114.114.114.114
 921lu.com 114.114.114.114
-922000.com 114.114.114.114
 92220668.com 114.114.114.114
 92220701.com 114.114.114.114
 922835.com 114.114.114.114
@@ -6964,6 +6964,7 @@ a0bi.com 114.114.114.114
 a1166.com 114.114.114.114
 a135.net 114.114.114.114
 a166.com 114.114.114.114
+a1736.com 114.114.114.114
 a2048.com 114.114.114.114
 a21fs.com 114.114.114.114
 a21yishion.com 114.114.114.114
@@ -7800,6 +7801,7 @@ aixchina.net 114.114.114.114
 aixcoder.com 114.114.114.114
 aixiaoduo.com 114.114.114.114
 aixiashu.com 114.114.114.114
+aixiashu.net 114.114.114.114
 aixiatxt.com 114.114.114.114
 aixiawa.com 114.114.114.114
 aixiawx.com 114.114.114.114
@@ -8516,6 +8518,7 @@ aokangsports.com 114.114.114.114
 aolai.com 114.114.114.114
 aolaigo.com 114.114.114.114
 aoliday.com 114.114.114.114
+aoliongame.com 114.114.114.114
 aolylcd.com 114.114.114.114
 aomeng.net 114.114.114.114
 aomygod.com 114.114.114.114
@@ -10004,7 +10007,6 @@ bdydns.com 114.114.114.114
 bdydns.net 114.114.114.114
 bdys.me 114.114.114.114
 bdysite.com 114.114.114.114
-bdyxzx.com 114.114.114.114
 be-xx.com 114.114.114.114
 be90.com 114.114.114.114
 beadwallet.com 114.114.114.114
@@ -20213,6 +20215,7 @@ enroobbs.com 114.114.114.114
 enrz.com 114.114.114.114
 enshide.com 114.114.114.114
 enshijob.com 114.114.114.114
+ensotemple.com 114.114.114.114
 enstylement.com 114.114.114.114
 ent120.com 114.114.114.114
 enterdesk.com 114.114.114.114
@@ -27578,6 +27581,7 @@ huiyijh.com 114.114.114.114
 huiyinxun.com 114.114.114.114
 huiyizhuo.com 114.114.114.114
 huiyou.com 114.114.114.114
+huiyu.vc 114.114.114.114
 huiyuandao.com 114.114.114.114
 huiyuanyy.com 114.114.114.114
 huiyumedia.com 114.114.114.114
@@ -31555,7 +31559,6 @@ jjyl12349.com 114.114.114.114
 jjyx.com 114.114.114.114
 jjzdm.com 114.114.114.114
 jjzfgjj.com 114.114.114.114
-jjzl800.com 114.114.114.114
 jk-px.com 114.114.114.114
 jk126.com 114.114.114.114
 jk130.com 114.114.114.114
@@ -36775,7 +36778,6 @@ maigoo.com 114.114.114.114
 maihanji.com 114.114.114.114
 maihaoche.com 114.114.114.114
 maihehd.com 114.114.114.114
-maihenghb.com 114.114.114.114
 maijia.com 114.114.114.114
 maijiaba.com 114.114.114.114
 maijiakan.com 114.114.114.114
@@ -37000,7 +37002,6 @@ maobugames.com 114.114.114.114
 maodou.com 114.114.114.114
 maodouapp.com 114.114.114.114
 maoercdn.com 114.114.114.114
-maoerduo2018.com 114.114.114.114
 maoflag.net 114.114.114.114
 maogepingbeauty.com 114.114.114.114
 maogx.win 114.114.114.114
@@ -45459,6 +45460,7 @@ scdri.com 114.114.114.114
 scdzmw.com 114.114.114.114
 scedu.net 114.114.114.114
 sceeo.com 114.114.114.114
+scenery.hk 114.114.114.114
 scflcp.com 114.114.114.114
 scfzbs.com 114.114.114.114
 scgc.net 114.114.114.114
@@ -48406,6 +48408,7 @@ ssp86.com 114.114.114.114
 sspaas.com 114.114.114.114
 sspai.com 114.114.114.114
 sspai.me 114.114.114.114
+sspeeddns.com 114.114.114.114
 sspezz.com 114.114.114.114
 ssports.com 114.114.114.114
 ssports.net 114.114.114.114
@@ -49378,6 +49381,7 @@ szlangwei.com 114.114.114.114
 szlbfs.com 114.114.114.114
 szlc9.com 114.114.114.114
 szlcsc.com 114.114.114.114
+szlddb.com 114.114.114.114
 szledia.org 114.114.114.114
 szleezen.com 114.114.114.114
 szlhtram.com 114.114.114.114
@@ -50813,6 +50817,7 @@ tlfw.net 114.114.114.114
 tlightsky.com 114.114.114.114
 tlinx.com 114.114.114.114
 tlivecdn.com 114.114.114.114
+tlivemcdn.com 114.114.114.114
 tlivepush.com 114.114.114.114
 tlivesource.com 114.114.114.114
 tljcw.com 114.114.114.114
@@ -56224,7 +56229,6 @@ xaxydr.com 114.114.114.114
 xayestar.com 114.114.114.114
 xayrc.com 114.114.114.114
 xazcit.com 114.114.114.114
-xaztdz.com 114.114.114.114
 xazwy.com 114.114.114.114
 xazzg.com 114.114.114.114
 xazzp.com 114.114.114.114
@@ -57478,6 +57482,7 @@ xinzhenkj.com 114.114.114.114
 xinzhi.space 114.114.114.114
 xinzzfsdfdslk333.com 114.114.114.114
 xinzzrowieir444.com 114.114.114.114
+xioagege587skjdo.com 114.114.114.114
 xionganxinxi.com 114.114.114.114
 xionganzhuce.com 114.114.114.114
 xiongdayq.com 114.114.114.114
@@ -57581,7 +57586,6 @@ xiwenquan.com 114.114.114.114
 xiwnn.com 114.114.114.114
 xiwuji.com 114.114.114.114
 xixi520.com 114.114.114.114
-xixiaoling.com 114.114.114.114
 xixiaoyou.com 114.114.114.114
 xixiarc.com 114.114.114.114
 xixibobo.com 114.114.114.114
@@ -63458,6 +63462,7 @@ zmwxxcx.com 114.114.114.114
 zmxiazai.com 114.114.114.114
 zmxiu.com 114.114.114.114
 zmye5vly.com 114.114.114.114
+zmzb.com 114.114.114.114
 zmzjk.com 114.114.114.114
 zn8.com 114.114.114.114
 znba.net 114.114.114.114
