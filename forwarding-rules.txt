@@ -3745,6 +3745,7 @@
 51huaya.com 114.114.114.114
 51hunningtu.com 114.114.114.114
 51hvac.com 114.114.114.114
+51hwe.com 114.114.114.114
 51hwzy.com 114.114.114.114
 51ias.com 114.114.114.114
 51ibm.com 114.114.114.114
@@ -4156,7 +4157,6 @@
 52aimo.com 114.114.114.114
 52ali88.com 114.114.114.114
 52alipay.com 114.114.114.114
-52alj.com 114.114.114.114
 52analysis.com 114.114.114.114
 52article.com 114.114.114.114
 52asus.com 114.114.114.114
@@ -4592,6 +4592,7 @@
 58baogao.com 114.114.114.114
 58buy.com 114.114.114.114
 58che.com 114.114.114.114
+58chxf.com 114.114.114.114
 58cloud.com 114.114.114.114
 58coin.com 114.114.114.114
 58corp.com 114.114.114.114
@@ -7517,6 +7518,7 @@ aiagain.com 114.114.114.114
 aiagain.net 114.114.114.114
 aiai6.com 114.114.114.114
 aiaigu168.com 114.114.114.114
+aialbb.com 114.114.114.114
 aiaor.com 114.114.114.114
 aiba.com 114.114.114.114
 aibaimm.com 114.114.114.114
@@ -8576,6 +8578,7 @@ ap88.com 114.114.114.114
 apabi.com 114.114.114.114
 apachecn.org 114.114.114.114
 apad.pro 114.114.114.114
+apayun.com 114.114.114.114
 apcdns.net 114.114.114.114
 apclc.com 114.114.114.114
 apcso.com 114.114.114.114
@@ -13699,7 +13702,6 @@ chinacaj.net 114.114.114.114
 chinacamel.com 114.114.114.114
 chinacampus.org 114.114.114.114
 chinacarbide.com 114.114.114.114
-chinacartonmachinery.com 114.114.114.114
 chinacasa.org 114.114.114.114
 chinaccm.com 114.114.114.114
 chinaccnet.com 114.114.114.114
@@ -21427,6 +21429,7 @@ fengmanginfo.com 114.114.114.114
 fengmaniu.com 114.114.114.114
 fengmeng.net 114.114.114.114
 fengmk2.com 114.114.114.114
+fengnayun.com 114.114.114.114
 fengniao.com 114.114.114.114
 fengniaohuanjing.com 114.114.114.114
 fengniaojr.com 114.114.114.114
@@ -22054,6 +22057,7 @@ framemaker.com 114.114.114.114
 francissoung.com 114.114.114.114
 francochinois.com 114.114.114.114
 franzsandner.com 114.114.114.114
+fraproperty.com 114.114.114.114
 frdic.com 114.114.114.114
 fread.com 114.114.114.114
 fredamd.com 114.114.114.114
@@ -23406,6 +23410,7 @@ globeedu.com 114.114.114.114
 globeimmi.com 114.114.114.114
 globrand.net 114.114.114.114
 glodon.com 114.114.114.114
+glofang.com 114.114.114.114
 gloryre.com 114.114.114.114
 gloryview.com 114.114.114.114
 glorze.com 114.114.114.114
@@ -23928,7 +23933,6 @@ gsjy.net 114.114.114.114
 gsktraining.com 114.114.114.114
 gskwai.com 114.114.114.114
 gskyty.com 114.114.114.114
-gslb.net 114.114.114.114
 gsmpers.com 114.114.114.114
 gspaceteam.com 114.114.114.114
 gsqstudio.com 114.114.114.114
@@ -26252,7 +26256,6 @@ himofi.com 114.114.114.114
 hinabian.com 114.114.114.114
 hinavi.net 114.114.114.114
 hindlish.com 114.114.114.114
-hinew8.com 114.114.114.114
 hinpy.com 114.114.114.114
 hiopensource.com 114.114.114.114
 hiosu.com 114.114.114.114
@@ -30001,7 +30004,6 @@ itmanbu.com 114.114.114.114
 itmastergame.com 114.114.114.114
 itmind.net 114.114.114.114
 itmoocs.com 114.114.114.114
-itmresources.com 114.114.114.114
 itmsm.com 114.114.114.114
 itmuch.com 114.114.114.114
 itmuke.com 114.114.114.114
@@ -31641,7 +31643,6 @@ jjtianshangi.com 114.114.114.114
 jjtonline.com 114.114.114.114
 jjtravel.com 114.114.114.114
 jjttjx.com 114.114.114.114
-jjvod.tv 114.114.114.114
 jjw.com 114.114.114.114
 jjwli.com 114.114.114.114
 jjwxc.com 114.114.114.114
@@ -31938,6 +31939,7 @@ jpg.cm 114.114.114.114
 jpggod.com 114.114.114.114
 jpghd.com 114.114.114.114
 jphot.net 114.114.114.114
+jpivfw.com 114.114.114.114
 jpjc315.com 114.114.114.114
 jpkcnet.com 114.114.114.114
 jpkix.com 114.114.114.114
@@ -32026,7 +32028,6 @@ js0573.com 114.114.114.114
 js11183.com 114.114.114.114
 js118114.com 114.114.114.114
 js165.com 114.114.114.114
-js178.com 114.114.114.114
 js3.org 114.114.114.114
 js3n.com 114.114.114.114
 js7xc.com 114.114.114.114
@@ -32076,6 +32077,7 @@ jsharer.com 114.114.114.114
 jsharyjx.com 114.114.114.114
 jshasl.com 114.114.114.114
 jshbank.com 114.114.114.114
+jshdata.com 114.114.114.114
 jshdwh.com 114.114.114.114
 jshmrcb.com 114.114.114.114
 jshnh.com 114.114.114.114
@@ -32261,7 +32263,6 @@ juhaof.com 114.114.114.114
 juhaokan.org 114.114.114.114
 juhcloud.com 114.114.114.114
 juhe.com 114.114.114.114
-juheng88.com 114.114.114.114
 juheweb.com 114.114.114.114
 juhome.net 114.114.114.114
 juhuasuan.com 114.114.114.114
@@ -34053,7 +34054,6 @@ kvevv.com 114.114.114.114
 kveww.com 114.114.114.114
 kvexx.com 114.114.114.114
 kvezz.com 114.114.114.114
-kvhee.com 114.114.114.114
 kvhmm.com 114.114.114.114
 kviso.com 114.114.114.114
 kvkaa.com 114.114.114.114
@@ -34256,6 +34256,7 @@ laiwang.com 114.114.114.114
 laiwo.com 114.114.114.114
 laiwu.net 114.114.114.114
 laiwumedia.com 114.114.114.114
+laixiu.cc 114.114.114.114
 laixiukeji.com 114.114.114.114
 laixueedu.com 114.114.114.114
 laixuexi.cc 114.114.114.114
@@ -34282,6 +34283,7 @@ lamaqun.com 114.114.114.114
 lambda.hk 114.114.114.114
 lamiu.com 114.114.114.114
 lamost.org 114.114.114.114
+lamoton.com 114.114.114.114
 lampchina.net 114.114.114.114
 lampouomo.com 114.114.114.114
 lamyu.com 114.114.114.114
@@ -34961,6 +34963,7 @@ lexiangla.com 114.114.114.114
 lexiangzuji.com 114.114.114.114
 lexin.com 114.114.114.114
 lexinchina.com 114.114.114.114
+lexpq.com 114.114.114.114
 lexs9.com 114.114.114.114
 lexue.com 114.114.114.114
 lexue8.com 114.114.114.114
@@ -34986,6 +34989,7 @@ leyue100.com 114.114.114.114
 leyun001.com 114.114.114.114
 leyungame.com 114.114.114.114
 leyunge.com 114.114.114.114
+leyuxyz.com 114.114.114.114
 leyuz.com 114.114.114.114
 lezai.com 114.114.114.114
 lezhi.com 114.114.114.114
@@ -36824,7 +36828,6 @@ machine-visions.com 114.114.114.114
 machine35.com 114.114.114.114
 machine365.com 114.114.114.114
 machunjie.com 114.114.114.114
-macidea.com 114.114.114.114
 macjb.com 114.114.114.114
 mackentan.com 114.114.114.114
 mackext.com 114.114.114.114
@@ -39452,6 +39455,10 @@ nanoer.net 114.114.114.114
 nanputuo.com 114.114.114.114
 nanqi.org 114.114.114.114
 nanrentu.cc 114.114.114.114
+nanrenvip.cc 114.114.114.114
+nanrenvip02.cc 114.114.114.114
+nanrenvip03.cc 114.114.114.114
+nanrenvip04.cc 114.114.114.114
 nanrenwa.com 114.114.114.114
 nanshanski.com 114.114.114.114
 nantaihu.com 114.114.114.114
@@ -39628,6 +39635,7 @@ neegle.net 114.114.114.114
 neeq.cc 114.114.114.114
 neets.cc 114.114.114.114
 neeu.com 114.114.114.114
+nefficient.co.kr 114.114.114.114
 negroupedu.org 114.114.114.114
 neigou.com 114.114.114.114
 neihanshequ.com 114.114.114.114
@@ -39718,6 +39726,7 @@ neuqsoft.com 114.114.114.114
 neusncp.com 114.114.114.114
 neusoft.com 114.114.114.114
 neutrontek.com 114.114.114.114
+neux.studio 114.114.114.114
 nev-battery.org 114.114.114.114
 new-mobi.com 114.114.114.114
 new-more.com 114.114.114.114
@@ -41351,6 +41360,7 @@ palmyou.com 114.114.114.114
 pamss.net 114.114.114.114
 pan131.com 114.114.114.114
 pan58.com 114.114.114.114
+pan666.net 114.114.114.114
 pan8.net 114.114.114.114
 panabit.com 114.114.114.114
 panasonicmall.com 114.114.114.114
@@ -41668,6 +41678,7 @@ pear.hk 114.114.114.114
 pearlinpalm.com 114.114.114.114
 pearvideo.com 114.114.114.114
 peasrch.com 114.114.114.114
+pec33.com 114.114.114.114
 pechoin.com 114.114.114.114
 pediy.com 114.114.114.114
 pedli.com 114.114.114.114
@@ -42072,6 +42083,7 @@ pipsemi.com 114.114.114.114
 piqs.com 114.114.114.114
 piscesys.com 114.114.114.114
 pisx.com 114.114.114.114
+pix73.com 114.114.114.114
 pixelauth.com 114.114.114.114
 pixhey.com 114.114.114.114
 pixivacg.com 114.114.114.114
@@ -42686,6 +42698,7 @@ pwsannong.com 114.114.114.114
 px0571.com 114.114.114.114
 px5a.com 114.114.114.114
 pxb7.com 114.114.114.114
+pxc33.com 114.114.114.114
 pxcn168.com 114.114.114.114
 pxdier.net 114.114.114.114
 pxemba.com 114.114.114.114
@@ -43504,6 +43517,7 @@ qiti88.com 114.114.114.114
 qitian-tech.com 114.114.114.114
 qitian.biz 114.114.114.114
 qitiancom.com 114.114.114.114
+qitongxq.com 114.114.114.114
 qitoon.com 114.114.114.114
 qitxt.com 114.114.114.114
 qiu-ai.com 114.114.114.114
@@ -47899,7 +47913,6 @@ smartermicro.com 114.114.114.114
 smartfactory-expo.com 114.114.114.114
 smartgaga.com 114.114.114.114
 smartgeek.vip 114.114.114.114
-smartgslb.com 114.114.114.114
 smarthey.com 114.114.114.114
 smarthomecn.com 114.114.114.114
 smartisan.com 114.114.114.114
@@ -49787,7 +49800,6 @@ taidous.com 114.114.114.114
 taidu.com 114.114.114.114
 taig.com 114.114.114.114
 taigaoxiao.com 114.114.114.114
-taigongwl.com 114.114.114.114
 taiguoyu.com 114.114.114.114
 taihaikj.com 114.114.114.114
 taihainet.com 114.114.114.114
@@ -52827,6 +52839,7 @@ uunice.com 114.114.114.114
 uuns.com 114.114.114.114
 uunt.com 114.114.114.114
 uuoo.com 114.114.114.114
+uupages.com 114.114.114.114
 uupaotui.com 114.114.114.114
 uupee.com 114.114.114.114
 uupei.com 114.114.114.114
@@ -53677,6 +53690,7 @@ waf.cdnetworks.com 114.114.114.114
 wafcn.com 114.114.114.114
 wafunny.com 114.114.114.114
 wafzi.com 114.114.114.114
+waha.cc 114.114.114.114
 waheaven.com 114.114.114.114
 wahlap.com 114.114.114.114
 wahongyu.com 114.114.114.114
@@ -53696,6 +53710,7 @@ wailianvisa.com 114.114.114.114
 waima.com 114.114.114.114
 waimai.zone 114.114.114.114
 waimai361.com 114.114.114.114
+waimaiwanjia.com 114.114.114.114
 waimao6.com 114.114.114.114
 waimaolangtz.com 114.114.114.114
 waimaoribao.com 114.114.114.114
@@ -61275,6 +61290,8 @@ yunpaiwang.net 114.114.114.114
 yunpan.com 114.114.114.114
 yunpansou.cc 114.114.114.114
 yunpanx.com 114.114.114.114
+yunpanziyuan.com 114.114.114.114
+yunpanziyuan.xyz 114.114.114.114
 yunpei.com 114.114.114.114
 yunpian.com 114.114.114.114
 yunpiao.net 114.114.114.114
@@ -63561,6 +63578,7 @@ zkcx.com 114.114.114.114
 zkdt.net 114.114.114.114
 zkecopro.com 114.114.114.114
 zkeys.com 114.114.114.114
+zkf5.com 114.114.114.114
 zkh.com 114.114.114.114
 zkh360.com 114.114.114.114
 zkhb.group 114.114.114.114
