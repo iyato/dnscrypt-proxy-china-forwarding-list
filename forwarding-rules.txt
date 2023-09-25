@@ -18059,7 +18059,6 @@ djwcp.com 114.114.114.114
 djye.com 114.114.114.114
 djyjob.com 114.114.114.114
 djysx.com 114.114.114.114
-djyyh.com 114.114.114.114
 djzbl.com 114.114.114.114
 djzhj.com 114.114.114.114
 djzr88.com 114.114.114.114
@@ -25676,7 +25675,6 @@ hengyidai.com 114.114.114.114
 hengyigl.com 114.114.114.114
 hengyoux.com 114.114.114.114
 henhaoji.com 114.114.114.114
-heniehillsoceanside.com 114.114.114.114
 henjay724.com 114.114.114.114
 henkuai.com 114.114.114.114
 henmimang.com 114.114.114.114
@@ -35977,7 +35975,6 @@ lu4n.com 114.114.114.114
 lua.ren 114.114.114.114
 luaninfo.com 114.114.114.114
 luanren.com 114.114.114.114
-luanzun.com 114.114.114.114
 luastudio.net 114.114.114.114
 lubandata.com 114.114.114.114
 lubangd.com 114.114.114.114
@@ -54622,7 +54619,6 @@ win8.net 114.114.114.114
 win866.com 114.114.114.114
 win8china.com 114.114.114.114
 win8e.com 114.114.114.114
-win8pc.com 114.114.114.114
 win8xiazai.com 114.114.114.114
 win9008.com 114.114.114.114
 winasdaq.com 114.114.114.114
@@ -59880,6 +59876,7 @@ youkeda.com 114.114.114.114
 youkego.com 114.114.114.114
 youkelai.com 114.114.114.114
 youkexueyuan.com 114.114.114.114
+youkia.net 114.114.114.114
 youkongkan.com 114.114.114.114
 youkongwan.com 114.114.114.114
 youku.com 114.114.114.114
