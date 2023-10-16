@@ -3713,7 +3713,6 @@
 51kik.com 114.114.114.114
 51kim.com 114.114.114.114
 51kt.com 114.114.114.114
-51ktbyte.com 114.114.114.114
 51kupai.com 114.114.114.114
 51kupin.com 114.114.114.114
 51kywang.com 114.114.114.114
@@ -7696,6 +7695,7 @@ aiyingshi.com 114.114.114.114
 aiykj.com 114.114.114.114
 aiyou.com 114.114.114.114
 aiyoumi.com 114.114.114.114
+aiyouzj.com 114.114.114.114
 aiyoweia.com 114.114.114.114
 aiysm.com 114.114.114.114
 aiyuangong.com 114.114.114.114
@@ -17107,6 +17107,7 @@ dbgeek.org 114.114.114.114
 dbh123.net 114.114.114.114
 dbkan.com 114.114.114.114
 dblgf.com 114.114.114.114
+dbljj.com 114.114.114.114
 dbm-sh.com 114.114.114.114
 dbmailserver.com 114.114.114.114
 dbmall.com 114.114.114.114
@@ -18148,7 +18149,6 @@ dnsdizhi.com 114.114.114.114
 dnse0.com 114.114.114.114
 dnse1.com 114.114.114.114
 dnsfamily.com 114.114.114.114
-dnsfang.com 114.114.114.114
 dnsff.com 114.114.114.114
 dnsfwq.com 114.114.114.114
 dnsgtm.com 114.114.114.114
@@ -18933,7 +18933,6 @@ dwmoniqi.com 114.114.114.114
 dwntme.com 114.114.114.114
 dwnxy.com 114.114.114.114
 dwq.com 114.114.114.114
-dwqcw.com 114.114.114.114
 dwrh.net 114.114.114.114
 dwsedu.com 114.114.114.114
 dwstatic.com 114.114.114.114
@@ -24180,6 +24179,7 @@ gzhkl.com 114.114.114.114
 gzhotelgroup.com 114.114.114.114
 gzhphb.com 114.114.114.114
 gzhtinfo.com 114.114.114.114
+gzhttp.com 114.114.114.114
 gzhuake.cc 114.114.114.114
 gzhuojia.com 114.114.114.114
 gzhxpw.com 114.114.114.114
@@ -24644,7 +24644,6 @@ hanjiaying.com 114.114.114.114
 hanjie.biz 114.114.114.114
 hanjjl.com 114.114.114.114
 hanju-tv.org 114.114.114.114
-hanjutiantang.com 114.114.114.114
 hanjutv.com 114.114.114.114
 hanjutv.me 114.114.114.114
 hanjutvaa.com 114.114.114.114
@@ -31357,7 +31356,6 @@ jnwenlian.com 114.114.114.114
 jnyestar.com 114.114.114.114
 jnzcsyj.com 114.114.114.114
 jnzfwz.com 114.114.114.114
-jnzixun.com 114.114.114.114
 jnzycw.com 114.114.114.114
 jo43.com 114.114.114.114
 joaquinchou.com 114.114.114.114
@@ -32306,7 +32304,6 @@ kaikeba.com 114.114.114.114
 kailing.pub 114.114.114.114
 kaimanhua.com 114.114.114.114
 kaimg.com 114.114.114.114
-kaimigou.com 114.114.114.114
 kaipan88.com 114.114.114.114
 kaipanla.com 114.114.114.114
 kaiqiancq.com 114.114.114.114
@@ -35738,7 +35735,6 @@ ls-gb.com 114.114.114.114
 ls.link 114.114.114.114
 ls0513.com 114.114.114.114
 ls1018.com 114.114.114.114
-ls12.me 114.114.114.114
 ls666.com 114.114.114.114
 lsbankchina.com 114.114.114.114
 lsbchina.com 114.114.114.114
@@ -36641,6 +36637,7 @@ maple-game.com 114.114.114.114
 maplef.net 114.114.114.114
 mapmapping.com 114.114.114.114
 mappn.com 114.114.114.114
+maqingbo.com 114.114.114.114
 maqingxi.com 114.114.114.114
 maqinnews.com 114.114.114.114
 mararun.com 114.114.114.114
@@ -37525,7 +37522,6 @@ mindmanagerchina.com 114.114.114.114
 mindmapper.cc 114.114.114.114
 mindmeters.com 114.114.114.114
 mindmm.com 114.114.114.114
-mindopu.com 114.114.114.114
 mindpin.com 114.114.114.114
 mindray.com 114.114.114.114
 minecraftxz.com 114.114.114.114
@@ -37824,6 +37820,7 @@ mmy.la 114.114.114.114
 mmybt.com 114.114.114.114
 mmycdn.com 114.114.114.114
 mmyfilm.com 114.114.114.114
+mmzcn.com 114.114.114.114
 mmzh.com 114.114.114.114
 mn-soft.com 114.114.114.114
 mnancheng.com 114.114.114.114
@@ -38970,7 +38967,6 @@ nbhao.org 114.114.114.114
 nbhky.com 114.114.114.114
 nbimer.com 114.114.114.114
 nbimg.com 114.114.114.114
-nbjhawl.com 114.114.114.114
 nbjlw.com 114.114.114.114
 nbjnw.com 114.114.114.114
 nbjzjn.com 114.114.114.114
@@ -39715,7 +39711,6 @@ nows.fun 114.114.114.114
 nowscore.com 114.114.114.114
 nowshipin.com 114.114.114.114
 nowxz.com 114.114.114.114
-nowyingshi.com 114.114.114.114
 noxgroup.com 114.114.114.114
 noxue.com 114.114.114.114
 noxxxx.com 114.114.114.114
@@ -39928,7 +39923,6 @@ nz998.com 114.114.114.114
 nzbdw.com 114.114.114.114
 nzchina.com 114.114.114.114
 nzsiteres.com 114.114.114.114
-nzw-china.com 114.114.114.114
 nzwgs.com 114.114.114.114
 o--o.win 114.114.114.114
 o-netcom.com 114.114.114.114
@@ -40050,7 +40044,6 @@ officese.com 114.114.114.114
 officesoftcn.com 114.114.114.114
 officeweb365.com 114.114.114.114
 officewj.com 114.114.114.114
-officexr.com 114.114.114.114
 officezhushou.com 114.114.114.114
 officezu.com 114.114.114.114
 offodd.com 114.114.114.114
@@ -41258,7 +41251,6 @@ phpstudy.net 114.114.114.114
 phpv.net 114.114.114.114
 phpvar.com 114.114.114.114
 phpvod.com 114.114.114.114
-phpweb.net 114.114.114.114
 phpweblog.net 114.114.114.114
 phpxs.com 114.114.114.114
 phpyun.com 114.114.114.114
@@ -42082,7 +42074,6 @@ py1080p.com 114.114.114.114
 py1314.com 114.114.114.114
 py168.com 114.114.114.114
 py3study.com 114.114.114.114
-py6.com 114.114.114.114
 py94.com 114.114.114.114
 pyadx.com 114.114.114.114
 pyasfunds.com 114.114.114.114
@@ -42453,7 +42444,6 @@ qianjiapp.com 114.114.114.114
 qianjiayue.com 114.114.114.114
 qianjin5.com 114.114.114.114
 qianjing.com 114.114.114.114
-qianjins.com 114.114.114.114
 qianju.org 114.114.114.114
 qianka.com 114.114.114.114
 qianliao.net 114.114.114.114
@@ -42536,7 +42526,6 @@ qiaozuji.com 114.114.114.114
 qiaqa.com 114.114.114.114
 qiaqiafood.com 114.114.114.114
 qiawei.com 114.114.114.114
-qibaodx.com 114.114.114.114
 qibazaixian.com 114.114.114.114
 qibingdaojia.com 114.114.114.114
 qibo168.com 114.114.114.114
@@ -45476,7 +45465,6 @@ sfbest.com 114.114.114.114
 sfccn.com 114.114.114.114
 sfcdn.org 114.114.114.114
 sfddj.com 114.114.114.114
-sfdkj.com 114.114.114.114
 sfefqwq3.com 114.114.114.114
 sfgj.org 114.114.114.114
 sfgy.org 114.114.114.114
@@ -46296,6 +46284,7 @@ shoudian.info 114.114.114.114
 shoudian.org 114.114.114.114
 shouduit.com 114.114.114.114
 shoudurc.com 114.114.114.114
+shoufaw.com 114.114.114.114
 shoufm.com 114.114.114.114
 shougongke.com 114.114.114.114
 shouhoubang.com 114.114.114.114
@@ -46743,7 +46732,6 @@ silkpresent.com 114.114.114.114
 silkroadtechnologies.com 114.114.114.114
 silksong.me 114.114.114.114
 sillydong.com 114.114.114.114
-silu020.com 114.114.114.114
 silucar.com 114.114.114.114
 silucg.com 114.114.114.114
 siludao.com 114.114.114.114
@@ -48030,7 +48018,6 @@ sthforme.com 114.114.114.114
 sthifi.com 114.114.114.114
 sthke.com 114.114.114.114
 sticksgame.com 114.114.114.114
-stjfw.net 114.114.114.114
 stkey.win 114.114.114.114
 stklt.com 114.114.114.114
 stlswm.com 114.114.114.114
@@ -48175,7 +48162,6 @@ sudupower.net 114.114.114.114
 sudusite.com 114.114.114.114
 sueflower.com 114.114.114.114
 sueon.com 114.114.114.114
-sufa168.com 114.114.114.114
 sufangxu.com 114.114.114.114
 sufeinet.com 114.114.114.114
 sufont.com 114.114.114.114
@@ -51741,7 +51727,6 @@ umihome.com 114.114.114.114
 umilu.com 114.114.114.114
 umindex.com 114.114.114.114
 uminehotel.com 114.114.114.114
-umineiot.com 114.114.114.114
 uminsky.com 114.114.114.114
 umiwi.com 114.114.114.114
 umjicanvas.com 114.114.114.114
@@ -52858,7 +52843,6 @@ vzhuo.com 114.114.114.114
 vzhushou.com 114.114.114.114
 vzidc.com 114.114.114.114
 vzkoo.com 114.114.114.114
-vzmapp.com 114.114.114.114
 vzuu.com 114.114.114.114
 w-e.cc 114.114.114.114
 w-w-j-d.com 114.114.114.114
@@ -54201,7 +54185,6 @@ whsql.org 114.114.114.114
 whsqsoft.com 114.114.114.114
 whsrc.com 114.114.114.114
 whssxpx.com 114.114.114.114
-whsunmap.com 114.114.114.114
 whsw.net 114.114.114.114
 whsy.org 114.114.114.114
 whsyy.net 114.114.114.114
@@ -57362,7 +57345,6 @@ xqras.asia 114.114.114.114
 xqsbw.com 114.114.114.114
 xqship.com 114.114.114.114
 xqtesting.com 114.114.114.114
-xqwww.com 114.114.114.114
 xqyk024.com 114.114.114.114
 xqypay.com 114.114.114.114
 xrcch.com 114.114.114.114
@@ -58794,7 +58776,6 @@ yilongnews.com 114.114.114.114
 yilongtv.com 114.114.114.114
 yilule.com 114.114.114.114
 yilumh.com 114.114.114.114
-yiluzhuanqian.com 114.114.114.114
 yiluzouhao.com 114.114.114.114
 yilvcheng.com 114.114.114.114
 yimaoip.com 114.114.114.114
@@ -58814,7 +58795,6 @@ yimidida.com 114.114.114.114
 yimihaodi.com 114.114.114.114
 yimin.biz 114.114.114.114
 yimin168.com 114.114.114.114
-yimincaifu.com 114.114.114.114
 yiminchaoshi.com 114.114.114.114
 yimingkeji.net 114.114.114.114
 yimingzhi.net 114.114.114.114
@@ -58842,7 +58822,6 @@ yinduzx.com 114.114.114.114
 yineitong.com 114.114.114.114
 yinfeiy.com 114.114.114.114
 ying-ji.com 114.114.114.114
-yingbar.com 114.114.114.114
 yingbei365.com 114.114.114.114
 yingbio.com 114.114.114.114
 yingbishufa.com 114.114.114.114
@@ -62227,7 +62206,6 @@ zhulogic.com 114.114.114.114
 zhulong.com 114.114.114.114
 zhulongjiang.com 114.114.114.114
 zhulu86.com 114.114.114.114
-zhume.com 114.114.114.114
 zhumengwl.com 114.114.114.114
 zhumu.me 114.114.114.114
 zhuna.net 114.114.114.114
