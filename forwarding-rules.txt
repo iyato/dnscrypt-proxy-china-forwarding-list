@@ -23001,7 +23001,6 @@ chuangyehai.com 114.114.114.114
 chuangyejia.com 114.114.114.114
 chuangyetv.com 114.114.114.114
 chuangyijisu.com 114.114.114.114
-chuangyimao.com 114.114.114.114
 chuangyiqifu.com 114.114.114.114
 chuangyisai.com 114.114.114.114
 chuangyiwh.com 114.114.114.114
@@ -24294,7 +24293,6 @@ cncrypt.com 114.114.114.114
 cncsen.com 114.114.114.114
 cncsj.net 114.114.114.114
 cncsparetools.com 114.114.114.114
-cnctg.net 114.114.114.114
 cnction.com 114.114.114.114
 cnctrip.com 114.114.114.114
 cncwkj.com 114.114.114.114
@@ -34013,7 +34011,6 @@ eyou.com 114.114.114.114
 eyou.net 114.114.114.114
 eyoubaidu.com 114.114.114.114
 eyoucms.com 114.114.114.114
-eyouct.com 114.114.114.114
 eyoungindustry.com 114.114.114.114
 eyourbusiness.com 114.114.114.114
 eyouwx.com 114.114.114.114
@@ -53114,7 +53111,6 @@ iyouxin.com 114.114.114.114
 iyouxun.com 114.114.114.114
 iyruan.com 114.114.114.114
 iysj.com 114.114.114.114
-iytc.net 114.114.114.114
 iytcdn.com 114.114.114.114
 iyuan.ltd 114.114.114.114
 iyuanpei.cc 114.114.114.114
@@ -69394,7 +69390,6 @@ newcentury-edu.com 114.114.114.114
 newcger.com 114.114.114.114
 newchainbase.com 114.114.114.114
 newchieve.com 114.114.114.114
-newchinabeach.org 114.114.114.114
 newchinalife.com 114.114.114.114
 newcitygz.com 114.114.114.114
 newclasses.org 114.114.114.114
@@ -76396,7 +76391,6 @@ qmwyy.com 114.114.114.114
 qmxphoto.com 114.114.114.114
 qmxrmt.com 114.114.114.114
 qmxyc.com 114.114.114.114
-qmyc.ltd 114.114.114.114
 qmyq.com 114.114.114.114
 qmyyl.com 114.114.114.114
 qmz5.com 114.114.114.114
@@ -78482,7 +78476,6 @@ ritaojiang.com 114.114.114.114
 ritaomeng.com 114.114.114.114
 ritarpower.com 114.114.114.114
 rivalsa.net 114.114.114.114
-riveralydia.shop 114.114.114.114
 rivergame.net 114.114.114.114
 riverinepm.com 114.114.114.114
 riverlimittech.net 114.114.114.114
@@ -96422,6 +96415,7 @@ wetest.org 114.114.114.114
 wetestlab.net 114.114.114.114
 wetherm.com 114.114.114.114
 weti.me 114.114.114.114
+wetimetech.com 114.114.114.114
 weton.net 114.114.114.114
 wetools.com 114.114.114.114
 wetools.pro 114.114.114.114
