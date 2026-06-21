@@ -13899,6 +13899,7 @@ b-fairy.com 114.114.114.114
 b-k-automation.com 114.114.114.114
 b-raymedia.com 114.114.114.114
 b.biz 114.114.114.114
+b.c2r.ts.cdn.office.net 114.114.114.114
 b01.net 114.114.114.114
 b02f0d7f3745ba7c.com 114.114.114.114
 b041e427810281.beer 114.114.114.114
@@ -30393,6 +30394,7 @@ douyongtuan.com 114.114.114.114
 douyou100.com 114.114.114.114
 douyu.com 114.114.114.114
 douyu.tv 114.114.114.114
+douyuedui.com 114.114.114.114
 douyuex.com 114.114.114.114
 douyuscdn.com 114.114.114.114
 douyutv.com 114.114.114.114
@@ -33153,7 +33155,6 @@ etccenters.com 114.114.114.114
 etcchebao.com 114.114.114.114
 etcgsx.com 114.114.114.114
 etchcb.com 114.114.114.114
-etcifk.vip 114.114.114.114
 etcifw.vip 114.114.114.114
 etcsd.com 114.114.114.114
 etcsx.com 114.114.114.114
@@ -33656,6 +33657,7 @@ f-dou.com 114.114.114.114
 f-insight.com 114.114.114.114
 f-stack.org 114.114.114.114
 f.biz 114.114.114.114
+f.c2r.ts.cdn.office.net 114.114.114.114
 f.cx 114.114.114.114
 f008.com 114.114.114.114
 f015dfc4510292.beer 114.114.114.114
@@ -34842,7 +34844,6 @@ fhfxys.com 114.114.114.114
 fhgame.com 114.114.114.114
 fhgjds.com 114.114.114.114
 fhguotai.com 114.114.114.114
-fhl05161ps.com 114.114.114.114
 fhldns.com 114.114.114.114
 fhldns.net 114.114.114.114
 fhlmotor.com 114.114.114.114
@@ -43105,6 +43106,8 @@ haimawan.com 114.114.114.114
 haimeec.com 114.114.114.114
 haimi.com 114.114.114.114
 haimian.com 114.114.114.114
+haimianbandstatic.com 114.114.114.114
+haimianyinyue.com 114.114.114.114
 haimin.net 114.114.114.114
 haimini.com 114.114.114.114
 haimosic.com 114.114.114.114
@@ -52529,7 +52532,6 @@ izaodao.com 114.114.114.114
 izazamall.com 114.114.114.114
 izb.pub 114.114.114.114
 izdatatech.com 114.114.114.114
-izenith.co 114.114.114.114
 izestchina.com 114.114.114.114
 izgfu.com 114.114.114.114
 izhailong.com 114.114.114.114
@@ -53872,7 +53874,6 @@ jieqi.com 114.114.114.114
 jieqian.co 114.114.114.114
 jieqibg.com 114.114.114.114
 jieqinwang.com 114.114.114.114
-jierengz.com 114.114.114.114
 jieri2.com 114.114.114.114
 jierili.com 114.114.114.114
 jieruchaosheng.com 114.114.114.114
@@ -61074,7 +61075,6 @@ liao98.com 114.114.114.114
 liaobagua.com 114.114.114.114
 liaocheng.cc 114.114.114.114
 liaochuo.com 114.114.114.114
-liaode.com.tw 114.114.114.114
 liaogu.com 114.114.114.114
 liaogx.com 114.114.114.114
 liaoing.com 114.114.114.114
@@ -69839,7 +69839,6 @@ nnjnwg.com 114.114.114.114
 nnjr.co 114.114.114.114
 nnjsdsoft.com 114.114.114.114
 nnjsgy.com 114.114.114.114
-nnjsypx.com 114.114.114.114
 nnjsza.com 114.114.114.114
 nnjszlsb.com 114.114.114.114
 nnjt.com 114.114.114.114
@@ -72463,7 +72462,6 @@ pengyou.com 114.114.114.114
 pengyou.net 114.114.114.114
 pengyoukan.com 114.114.114.114
 pengyuanled.com 114.114.114.114
-pengyucpa.com 114.114.114.114
 pengyuwei.net 114.114.114.114
 pengzhihui.xyz 114.114.114.114
 penhuijiqi.com 114.114.114.114
@@ -77495,7 +77493,6 @@ ribio.com 114.114.114.114
 ribolia.com 114.114.114.114
 ricequant.com 114.114.114.114
 riceyun.com 114.114.114.114
-rich-chang.com 114.114.114.114
 rich-fc.com 114.114.114.114
 rich-futures.com 114.114.114.114
 rich-healthcare.com 114.114.114.114
@@ -81101,6 +81098,7 @@ shejiyue.com 114.114.114.114
 sheketiandi.com 114.114.114.114
 shekou.com 114.114.114.114
 shelive.net 114.114.114.114
+shell.cdn.office.net 114.114.114.114
 shellpub.com 114.114.114.114
 shellsec.com 114.114.114.114
 shelter-china.com 114.114.114.114
@@ -84921,6 +84919,7 @@ staticfile.net 114.114.114.114
 staticfile.org 114.114.114.114
 statickksmg.com 114.114.114.114
 statics.cc 114.114.114.114
+statics.teams.cdn.office.net 114.114.114.114
 staticsdd.com 114.114.114.114
 staticsoe.com 114.114.114.114
 staticsoem.com 114.114.114.114
@@ -85634,6 +85633,7 @@ suqun-group.com 114.114.114.114
 surely.cool 114.114.114.114
 surerp.com 114.114.114.114
 surface.download.prss.microsoft.com 114.114.114.114
+surface.downloads.prss.microsoft.com 114.114.114.114
 surfacetreatmentgroup.com 114.114.114.114
 surfacetreatmenttechnology.com 114.114.114.114
 surfcg.com 114.114.114.114
@@ -95679,7 +95679,6 @@ whidf.com 114.114.114.114
 whidy.net 114.114.114.114
 whiee.com 114.114.114.114
 whiie-expo.com 114.114.114.114
-whimsywarpgame.cc 114.114.114.114
 whinfo.net 114.114.114.114
 whir.net 114.114.114.114
 whisperto.net 114.114.114.114
@@ -98272,6 +98271,7 @@ xcrmyy.com 114.114.114.114
 xcsc.com 114.114.114.114
 xcstuido.com 114.114.114.114
 xcsyy.com 114.114.114.114
+xcthings.com 114.114.114.114
 xctmr.com 114.114.114.114
 xcultur.com 114.114.114.114
 xcurrency.com 114.114.114.114
@@ -98354,7 +98354,6 @@ xdpipe.com 114.114.114.114
 xdpjump.com 114.114.114.114
 xdplt.com 114.114.114.114
 xdpvp.com 114.114.114.114
-xdqtech.com 114.114.114.114
 xdressy.com 114.114.114.114
 xdrig.com 114.114.114.114
 xdrtc.com 114.114.114.114
@@ -99684,6 +99683,7 @@ xinghaoyun8.com 114.114.114.114
 xinghejoy.com 114.114.114.114
 xinghengedu.com 114.114.114.114
 xingheoa.com 114.114.114.114
+xinghewanglu.com 114.114.114.114
 xinghuaport.com 114.114.114.114
 xinghuazixun.com 114.114.114.114
 xinghuo100.com 114.114.114.114
@@ -101940,7 +101940,6 @@ xyimg.net 114.114.114.114
 xyingsoft.com 114.114.114.114
 xyj.link 114.114.114.114
 xyj321.com 114.114.114.114
-xyj618.com 114.114.114.114
 xyjbglass.com 114.114.114.114
 xyjs999.com 114.114.114.114
 xyjtzz.com 114.114.114.114
@@ -107169,6 +107168,8 @@ zabxib.com 114.114.114.114
 zac1993.com 114.114.114.114
 zachina.org 114.114.114.114
 zack.asia 114.114.114.114
+zaconad.com 114.114.114.114
+zaconbs.com 114.114.114.114
 zadervice.com 114.114.114.114
 zaduonews.com 114.114.114.114
 zaecu.com 114.114.114.114
