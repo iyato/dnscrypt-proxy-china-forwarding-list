@@ -2685,6 +2685,7 @@
 1zhe.com 114.114.114.114
 1zhengji.com 114.114.114.114
 1zhixue.com 114.114.114.114
+1zidc.com 114.114.114.114
 1zj.com 114.114.114.114
 1zjob.com 114.114.114.114
 1zu.com 114.114.114.114
@@ -16640,6 +16641,7 @@ bktencent.com 114.114.114.114
 bktsj.com 114.114.114.114
 bkvps.com 114.114.114.114
 bkweek.com 114.114.114.114
+bkwsq.com 114.114.114.114
 bkzzy.com 114.114.114.114
 bl.com 114.114.114.114
 bl0757.com 114.114.114.114
@@ -18534,6 +18536,7 @@ cangya.com 114.114.114.114
 cangzhouhd.com 114.114.114.114
 canhighcenter.com 114.114.114.114
 canhot.net 114.114.114.114
+canhui.xyz 114.114.114.114
 caniculab.com 114.114.114.114
 canidc.com 114.114.114.114
 canjio.com 114.114.114.114
@@ -75946,6 +75949,7 @@ redidc.com 114.114.114.114
 redisfans.com 114.114.114.114
 redmagic.com 114.114.114.114
 redmart.com 114.114.114.114
+redmid.com 114.114.114.114
 redmou.com 114.114.114.114
 rednetdns.com 114.114.114.114
 rednote.com 114.114.114.114
@@ -92392,6 +92396,7 @@ vxia.net 114.114.114.114
 vxiaocheng.com 114.114.114.114
 vxinyou.com 114.114.114.114
 vxixi.com 114.114.114.114
+vxni.ink 114.114.114.114
 vxo7tu.com 114.114.114.114
 vxocok3197.vip 114.114.114.114
 vxsnk.com 114.114.114.114
